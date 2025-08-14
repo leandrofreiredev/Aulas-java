@@ -1,4 +1,4 @@
-package Projetos;
+package Projetos.ContaBanco;
 
 import java.util.Scanner;
 import java.util.Locale;
